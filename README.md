@@ -122,14 +122,3 @@
 )
 ![Blazemeter](https://img.shields.io/badge/Blazemeter-white?style=for-the-badge&logo=blazemeter&logoColor=CA2133&color=black
 )
-
----
-
-<div id="stats" align="center">
-
-![qnen's GitHub stats](https://github-readme-stats.vercel.app/api?username=qnen&theme=dark&show_icons=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qnen&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qnen&layout=compact&theme=dark)](https://github.com/qnen/github-readme-stats)
-
-</div>
