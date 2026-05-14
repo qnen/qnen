@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/gabriel-brecci/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=qnen&style=for-the-badge&color=black&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 ---
